@@ -46,7 +46,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger("UltraHyperXBot")
 
-OWNER_ID = None
+OWNER_ID = 7002714522
 DEFAULT_AUTHORIZED_USERS = set()
 HYPER_MODE = True
 MAX_RETRIES = 3
@@ -55,14 +55,14 @@ MAX_TASKS_PER_CHAT = 100
 TASK_CLEANUP_INTERVAL = 30
 CONNECTION_TIMEOUT = 30
 
-BOT_TOKENS = []
+BOT_TOKENS = [8318784008:AAG7as5qNrRKA3O1x8ncG48tWrIWYAQBDsA]
 
 HEART_EMOJIS = ['❤️', '🧡', '💛', '💚', '💙', '💜', '🤎', '🖤', '🤍', '💘', '💝', '💖', '💗', '💓', '💞', '💌', '💕', '💟', '♥️', '❣️', '💔']
 
-UNAUTHORIZED_MESSAGE = "𝐃𝐄𝐕 𝐏𝐀𝐏𝐀 𝐒𝐄 𝐁𝐈𝐊𝐇 𝐌𝐀𝐍𝐆 🤣🎀😻"
+UNAUTHORIZED_MESSAGE = "GAGAN PAPA SE BHEEKH MAANG 🤣🎀😻"
 
 NAME_CHANGE_MESSAGES = [
-    "DEV TERA BAAP  🔥⃤⃟⃝🐦‍🔥『🚩』",
+    "GAGAN TERA BAAP  🔥⃤⃟⃝🐦‍🔥『🚩』",
     "{target} TERI BHEN KA BHOSADA 🔥⃤⃟⃝🐦‍🔥『🚩』",
     "{target} TERI MAA DEV KE LUND PR 🔥⃤⃟⃝🐦‍🔥『🚩』",
     "{target} TERI MAA KA BHOSADA CHUDA 🔥⃤⃟⃝🐦‍🔥『🚩』",
@@ -77,8 +77,8 @@ REPLY_MESSAGES = [
     "{target} चुद गया -!",
     "Aʟᴏᴏ Kʜᴀᴋᴇ {target} Kɪ Mᴀ Cʜᴏᴅ Dᴜɴɢᴀ!",
     "{target} Cʜᴜᴅᴀ🦖🪽",
-    "{target} Bᴏʟᴇ ᴅᴇᴠ ᴘᴀᴘᴀ पिताश्री Mᴇʀɪ Mᴀ Cʜᴏᴅ Dᴏ",
-    "{target} Kɪ Mᴀ Bᴏʟᴇ ᴅᴇᴠ ᴘᴀᴘᴀ Sᴇ Cʜᴜᴅᴜɴɢɪ",
+    "{target} Bᴏʟᴇ GAGAN ᴘᴀᴘᴀ पिताश्री Mᴇʀɪ Mᴀ Cʜᴏᴅ Dᴏ",
+    "{target} Kɪ Mᴀ Bᴏʟᴇ GAGAN ᴘᴀᴘᴀ Sᴇ Cʜᴜᴅᴜɴɢɪ",
     "{target} Kɪ Bᴇʜɴ Kɪ Cʜᴜᴛ Kᴀʟɪ Kᴀʟɪ",
     "{target} Kɪ Mᴀ Rᴀɴᴅɪ",
     "{target} ɢᴀʀᴇᴇʙ ᴋᴀ ʙᴀᴄʜʜᴀ",
@@ -89,8 +89,8 @@ REPLY_MESSAGES = [
     "{target} ᴋɪ ᴍᴀ ᴅᴇᴠ ᴘᴀᴘᴀ ꜱᴇ ᴄʜᴜᴅᴇ",
     "{target} ᴅᴇᴠ ᴘᴀᴘᴀ ꜱᴇ ᴄʜᴜᴅᴀ",
     "{target} CUDKE MARGYA",
-    "{target} ɴᴇ ᴅᴇᴠ ᴘᴀᴘᴀ ᴋᴏ ʙᴀᴀᴩ ʙɴᴀ ʟɪyᴀ",
-    "{target} ʙᴏʟᴇ ᴅᴇᴠ ᴘᴀᴘᴀ ᴩᴀᴩᴀ",
+    "{target} ɴᴇ GAGAN ᴘᴀᴘᴀ ᴋᴏ ʙᴀᴀᴩ ʙɴᴀ ʟɪyᴀ",
+    "{target} ʙᴏʟᴇ GAGAN ᴘᴀᴘᴀ ᴩᴀᴩᴀ",
     "{target} ᴋɪ ᴀᴍᴍᴀ ᴄʜᴜᴅɪ",
     "{target} ᴋᴜᴛᴛᴇ ɢᴜʟᴀᴍɪ ᴋʀ 😋",
 ]
